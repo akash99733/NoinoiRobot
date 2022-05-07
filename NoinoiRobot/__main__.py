@@ -432,7 +432,7 @@ def noi_about_callback(update, context):
             text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /join : for join the voice chat."
             f"\n\n❍ /leave : for leave the voice chat."
-            f"\n\n❍ /leaveassistant : for leave assistant from voice chat.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
+            f"\n\n❍ /leaveassistant : for leave assistant from voice chat.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHIMUSIC 𝗣𝗟𝗔𝗬𝗘𝗥",
             
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -466,7 +466,7 @@ def noi_about_callback(update, context):
         ) 
     elif query.data == "noi_lyrics":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /lyrics : for get song lyrics.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
             
             parse_mode=ParseMode.MARKDOWN,
@@ -477,7 +477,7 @@ def noi_about_callback(update, context):
         )
     elif query.data == "noi_theame":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /theme : - Set a theme for thumbnails"
             f"\n\n❍ /settheame : - Set a theme for thumbnails.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
             
@@ -489,7 +489,7 @@ def noi_about_callback(update, context):
         )
     elif query.data == "noi_server":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /logs : 100 logs line"
             f"\n\n❍ /vars : config vars from heroku"
             f"\n\n❍ /delvars : del any vars or env"
@@ -506,7 +506,7 @@ def noi_about_callback(update, context):
         )
     elif query.data == "noi_song":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /song : - for download song.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHIMUSIC 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
             
             parse_mode=ParseMode.MARKDOWN,
@@ -517,7 +517,7 @@ def noi_about_callback(update, context):
         )
     elif query.data == "noi_speed":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /speedtest : - for cheak speed of bot.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
             
             parse_mode=ParseMode.MARKDOWN,
@@ -528,7 +528,7 @@ def noi_about_callback(update, context):
         )
     elif query.data == "noi_stats":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /stats : - for cheak stats of bot.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHIMUSIC 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
             
             parse_mode=ParseMode.MARKDOWN,
@@ -539,7 +539,7 @@ def noi_about_callback(update, context):
         )
     elif query.data == "noi_assist":
         query.message.edit_text(
-            text=f"**──𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
+            text=f"**──SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 📚──**"
             f"\n\n❍ /setassistant : - for set the bot assistant."
             f"\n\n❍ /changeassistant : - for change the bot assistant.\n\n 🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 SAARTHI 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥",
             
