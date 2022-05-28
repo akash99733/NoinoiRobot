@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/NOINOI_BOT"><img src="https://telegra.ph/file/d22126b9843a46dd05aa0.jpg"></a></p>
 
-    𝐍𝐨𝐢𝐧𝐨𝐢 𝐑𝐨𝐛𝐨𝐭 🤖
+    𝑺𝑨𝑨𝑹𝑻𝑯𝑰 𝑴𝑼𝑺𝑰𝑪 𝑩𝑶𝑻  🤖
 
 </p>
 
@@ -10,13 +10,13 @@
 
 A Telegram Telethon bot and simple management bot for help ingroup.
 
-Can be found on telegram as [NOINOI_BOT](https://t.me/NOINOI_BOT).
+Can be found on telegram as [SAARTHIMUSICBOT](https://t.me/SAARTHIMUSICBOT).
 
-The Support group can be reached out to at [Noinoin Support](https://t.me/CFC_BOT_SUPPORT), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [SAARTHI Support](https://t.me/TEAM_SAARTHI), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Noinoi updates](https://t.me/BAZIGARXD)
+News channel as at [SAARTHI 🍀 updates](https://t.me/SAARTHIMUSIC)
 
-The noinoi bot is the one of the powerdyll and superfast group management bot on telegram you can use this repo for mak your own bot 90% working plugins in the bot sorry for some plugins are not working we are working on there as soon as possible we will fix it.
+The SAARTHIMUSICBOT is the one of the powerdyll and superfast group management bot on telegram you can use this repo for mak your own bot 90% working plugins in the bot sorry for some plugins are not working we are working on there as soon as possible we will fix it.
 
 ## ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ❓
 
